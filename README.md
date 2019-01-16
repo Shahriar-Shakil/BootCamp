@@ -1,2 +1,0 @@
-# BootCamp
-Created with CodeSandbox
